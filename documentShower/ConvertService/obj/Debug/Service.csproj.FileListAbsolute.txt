@@ -1,0 +1,9 @@
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\bin\Debug\ConvertService.dll
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\bin\Debug\ConvertService.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\obj\Debug\ConvertService.dll
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\obj\Debug\ConvertService.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aksh0\OneDrive\デスクトップ\JsonConverter\ConvertService\obj\Debug\Service.csproj.CopyComplete

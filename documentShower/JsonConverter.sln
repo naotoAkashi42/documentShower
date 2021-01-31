@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRepacer", "JsonConverter\TextRepacer.csproj", "{284DEF0A-8343-4947-A1B0-9EE5420CBFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "ConvertService\Service.csproj", "{267F234C-261F-44E5-BC1B-A75D06BFD585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284DEF0A-8343-4947-A1B0-9EE5420CBFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284DEF0A-8343-4947-A1B0-9EE5420CBFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284DEF0A-8343-4947-A1B0-9EE5420CBFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284DEF0A-8343-4947-A1B0-9EE5420CBFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267F234C-261F-44E5-BC1B-A75D06BFD585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267F234C-261F-44E5-BC1B-A75D06BFD585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267F234C-261F-44E5-BC1B-A75D06BFD585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267F234C-261F-44E5-BC1B-A75D06BFD585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A233D7-16C1-44C0-B66E-439807493555}
+	EndGlobalSection
+EndGlobal
